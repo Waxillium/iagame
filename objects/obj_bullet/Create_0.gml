@@ -1,0 +1,9 @@
+damage = 1;
+color = noone;
+yvel = -20/3;
+xvel = 0;
+image_xscale = 1/25;
+image_yscale = 1/25;
+maxscale = 1;
+combinable = true;
+explosiveness = 25;
