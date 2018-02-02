@@ -5,7 +5,7 @@
     "name": "obj_enemy_shooter_helicopter_e",
     "eventList": [
         {
-            "id": "3b0849e9-30a6-4131-bb16-586c08af617a",
+            "id": "3730bf3a-2be6-4a5e-813f-4b18a2c0ed9b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1406c1fb-a504-41d2-b979-be585d76f4b3",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

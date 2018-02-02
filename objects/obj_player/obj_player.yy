@@ -5,7 +5,7 @@
     "name": "obj_player",
     "eventList": [
         {
-            "id": "a11ad5f6-ae87-4b8b-96d1-bb69085ce1d4",
+            "id": "79823334-4b37-4cad-9a9d-cd9c376d50c3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "aa2c41b0-506e-4d04-a16e-c7fac509b785"
         },
         {
-            "id": "b5e88d4c-ec91-4dfc-ba8e-38d8bb02f89c",
+            "id": "47d9ea55-65b6-4e0d-a468-51bdeac4685f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "aa2c41b0-506e-4d04-a16e-c7fac509b785"
         },
         {
-            "id": "b96686e6-2251-40ba-a131-988ccee795bc",
+            "id": "1b4f8a78-bf59-45b9-a6bf-1dffc9ce5d92",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -37,7 +37,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "97eed6c5-002e-4808-8b0c-4705e65ae143",
+    "parentObjectId": "b1d452fe-0043-4416-a97b-f4edbe8f3779",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "48851e25-0449-4549-8eb2-ed1302ffd862",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

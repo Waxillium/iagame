@@ -5,7 +5,7 @@
     "name": "obj_enemy_shooter_basic",
     "eventList": [
         {
-            "id": "103e84f2-38c6-4ba3-a653-ee264b8a5d4d",
+            "id": "516df959-06dc-4bd6-b39a-5b2abc964546",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1406c1fb-a504-41d2-b979-be585d76f4b3",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

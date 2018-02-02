@@ -5,7 +5,7 @@
     "name": "obj_enemy_diver_diag",
     "eventList": [
         {
-            "id": "0b06adf0-ec69-41db-bd1a-8d03bb3e11e2",
+            "id": "5bf7bfdd-e4c1-4379-9916-f87612a9b102",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a04eb3c7-7df5-4159-bb58-fc1d01cbf8b7",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

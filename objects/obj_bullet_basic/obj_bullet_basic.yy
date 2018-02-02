@@ -5,7 +5,7 @@
     "name": "obj_bullet_basic",
     "eventList": [
         {
-            "id": "d9888d11-4d55-450e-a4d1-3662ed1c309f",
+            "id": "e4cb93da-3762-433b-b86d-7196a0a2a7a8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5efa744e-6549-462b-ab52-ea2b2dc58077",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

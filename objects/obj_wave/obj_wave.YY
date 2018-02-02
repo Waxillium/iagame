@@ -5,7 +5,7 @@
     "name": "obj_wave",
     "eventList": [
         {
-            "id": "556e1f8e-2de8-4b1f-84f9-a95318d8d806",
+            "id": "0b7a3091-cb8e-435b-a2ed-9263c3d2ba24",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "b6c11099-007c-49fc-9ca9-d6cb8cfa35a6"
         },
         {
-            "id": "2c373bf2-008b-44f8-b174-480ea6779a5a",
+            "id": "02b3b3f3-d1a1-415d-9885-00625f452f80",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "b6c11099-007c-49fc-9ca9-d6cb8cfa35a6"
         },
         {
-            "id": "5effae04-dca8-45d5-9bfc-85ac2142a958",
+            "id": "72f5f8b7-f001-4333-afa7-cef86686aab7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -37,7 +37,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "97eed6c5-002e-4808-8b0c-4705e65ae143",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

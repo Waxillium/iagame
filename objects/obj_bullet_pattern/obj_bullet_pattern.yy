@@ -5,7 +5,7 @@
     "name": "obj_bullet_pattern",
     "eventList": [
         {
-            "id": "d8c1682f-2134-49b7-afc5-278319d096e3",
+            "id": "af7b5daa-d01a-49b9-a3fc-24fdc9130dbb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "19a399de-4a84-4a90-833a-168d1752012d"
         },
         {
-            "id": "3af5910f-bb57-4264-8539-66c85d2a5b0b",
+            "id": "5ce55627-7d03-49c3-8cef-b5e083e942f8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

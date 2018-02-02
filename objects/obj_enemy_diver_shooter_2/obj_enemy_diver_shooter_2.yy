@@ -5,7 +5,7 @@
     "name": "obj_enemy_diver_shooter_2",
     "eventList": [
         {
-            "id": "da0cec1d-c6f9-4cc9-9979-83f373cbad7d",
+            "id": "13bb1757-c89a-4738-9058-9cc22425b926",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1406c1fb-a504-41d2-b979-be585d76f4b3",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

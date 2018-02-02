@@ -5,7 +5,7 @@
     "name": "obj_par_diver",
     "eventList": [
         {
-            "id": "ebb3f300-56e4-4732-9c61-d500082a55e0",
+            "id": "d9a218a9-9e5c-41c6-8d98-4c6c5e917ff2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "044e1ce0-1d5f-497e-ad93-30a9eac59c4d"
         },
         {
-            "id": "b7420b7f-1cd6-4697-b176-1873e1f29db2",
+            "id": "71e696ee-5328-49e0-b964-14ec0009a641",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

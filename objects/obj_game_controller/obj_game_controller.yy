@@ -5,7 +5,7 @@
     "name": "obj_game_controller",
     "eventList": [
         {
-            "id": "11fb6f37-596c-4a05-8d6c-bbb43308c347",
+            "id": "addaca0b-85ca-48d6-abab-ba59fe892ea2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "2d637c47-007e-4387-989b-802ebb4bd0bb"
         },
         {
-            "id": "b4cd8b21-7839-4800-b1d3-396d9facb906",
+            "id": "95fbe13d-5feb-49c7-9b1a-11277c2147ea",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -27,7 +27,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "97eed6c5-002e-4808-8b0c-4705e65ae143",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
